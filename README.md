@@ -5,7 +5,7 @@
 <hr/>
 <h4 align="center">I’m a React Web application developer with experience in building responsive and optimized web applications using
 the latest technologies and practices in a remote environment for a year and a half. I’ve worked on a different kind
-of projects such as SPA’s, landing pages, and e-commerce while keeping the design as provided by the UI/UX team.</h4>
+of projects such as SPAs, landing pages, and e-commerce, while keeping the design as provided by the UI/UX team.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rizwanmalik177&label=Rizwan's%20Profile%20Views%20&color=dc143c&style=plastic" alt="rizwanmalik177" /> </p>
 
@@ -116,7 +116,7 @@ of projects such as SPA’s, landing pages, and e-commerce while keeping the des
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwanmalik177&show_icons=true&locale=en&layout=compact" alt="rizwanmalik177" height="192px"/>
 	</p>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
   </p>
   <br/>
 
